@@ -54,7 +54,10 @@ header nav a:hover{
     align-items: flex-start;
 }
 .serie-principal .descricao{
-    margin-bottom: 90px;
+    margin-bottom: 40px;
+}
+.titulo{
+    font-size: 40px;
 }
 
 /*filme principal*/
