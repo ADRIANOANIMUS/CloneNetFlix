@@ -55,6 +55,7 @@ header nav a:hover{
 }
 .serie-principal .descricao{
     margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 .titulo{
     font-size: 40px;
@@ -68,6 +69,13 @@ header nav a:hover{
     padding: 15px 30px;
     margin-right: 15px;
     font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.button:hover{
+    background-color: white;
+    color: var(--black);
 }
 /*filme principal*/
 
