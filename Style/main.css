@@ -78,8 +78,9 @@ header nav a:hover{
     color: var(--black);
 }
 
+
 .button i{
-    margin-right: 8px;
+    margin-right: 10px;
 }
 /*filme principal*/
 
