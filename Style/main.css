@@ -82,5 +82,17 @@ header nav a:hover{
 .button i{
     margin-right: 10px;
 }
-/*filme principal*/
 
+.container{
+    margin-left: 20px;
+}
+
+.serie-principal .container{
+    width: 70%;
+}
+
+.box-serie{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
